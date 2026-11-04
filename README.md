@@ -1,6 +1,7 @@
 # Zomato India Market Analysis
 
 ### End-to-End Data Analytics Project
+## Restaurant Market Intelligence & Competitive Benchmarking
 
 **Project Status:** Planning & Scope Definition
 
@@ -24,7 +25,7 @@ This project seeks to provide data-driven insights into these relationships usin
 
 ### General Objective
 
-Analyze and compare restaurant ratings and the volume of customer votes in the Zomato dataset, evaluating their relationships with price ranges, geographic locations, and service availability to identify patterns of restaurant reputation and customer review engagement.
+Analyze the ratings and vote volume of restaurants listed in the Zomato dataset for India, evaluating variations based on price ranges, available services, and geographic location, with the aim of identifying patterns in reputation and engagement that will facilitate comparisons across market segments and help prioritize areas for future research and improvement initiatives.
 >We have restaurants across various cities, price segments, and types. We want to understand which ones have the best and worst reputation metrics, in order to identify where we should focus our efforts on improvement and support for these restaurants.
 
 ### Specific Objectives
