@@ -32,13 +32,18 @@ Analyze and compare restaurant ratings and the volume of customer votes in the Z
 
 Compare restaurant ratings based on the availability of online delivery and table booking services to identify potential differences between restaurants offering these services and those that do not.
 
+> To help restaurants decide where to conduct research and invest resources to improve the customer experience.
+
 **Objective 2 - Pricing Analysis**
 
 Analyze the relationship between restaurant price ranges and customer ratings to identify potential patterns of association.
 
+>To help restaurants understand how they are positioned relative to other establishments in the same price segment, and how they can become more competitive within that segment.
+
 **Objective 3 - Geographic Analysis**
 
 Analyze and compare restaurant ratings and voting volumes across different Indian cities to identify geographic patterns in restaurant reputation and customer review engagement.
+>So that Zomato can identify markets where it would be advisable to conduct further research or prioritize commercial initiatives.
 
 ## 4. Dataset Information
 
