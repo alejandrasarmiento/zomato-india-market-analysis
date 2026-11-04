@@ -25,6 +25,7 @@ This project seeks to provide data-driven insights into these relationships usin
 ### General Objective
 
 Analyze and compare restaurant ratings and the volume of customer votes in the Zomato dataset, evaluating their relationships with price ranges, geographic locations, and service availability to identify patterns of restaurant reputation and customer review engagement.
+>We have restaurants across various cities, price segments, and types. We want to understand which ones have the best and worst reputation metrics, in order to identify where we should focus our efforts on improvement and support for these restaurants.
 
 ### Specific Objectives
 
